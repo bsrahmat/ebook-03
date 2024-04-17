@@ -22,3 +22,7 @@
 </p>
 
 - <a href="https://shopee.co.id/product/78709625/9069755032?smtt=0.78711099-1649659869.9" target="_blank">https://shopee.co.id/product/78709625/9069755032?smtt=0.78711099-1649659869.9</a>
+
+### Bib-tex file to cite this book:
+
+- <a href="https://github.com/bsrahmat/ebook-03/blob/main/EBook03_DL.bib" target="_blank">EBook03_DL.bib</a>
