@@ -8,7 +8,7 @@
 
 - <a href="https://github.com/bsrahmat/ebook-03/blob/main/EBook03_DL.pdf" target="_blank">EBook03_DL.pdf</a>
 
-- <a href="" target="_blank"></a>
+- <a href="https://www.academia.edu/117612880" target="_blank">https://www.academia.edu/117612880</a>
 
 - <a href="" target="_blank"></a>
 
