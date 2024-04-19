@@ -25,6 +25,12 @@
 
 <br>
 
+### The complete source code for the programs in this book can be downloaded here:
+
+- <a href="https://github.com/bsrahmat/dl" target="_blank">https://github.com/bsrahmat/dl</a>
+
+<br>
+
 ### Bib-tex file to cite this book:
 
 - <a href="https://github.com/bsrahmat/ebook-03/blob/main/EBook03_DL.bib" target="_blank">EBook03_DL.bib</a>
