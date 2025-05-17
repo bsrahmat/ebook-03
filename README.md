@@ -8,7 +8,7 @@
 
 - <a href="https://github.com/bsrahmat/ebook-03/blob/main/EBook03_DL.pdf" target="_blank">EBook03_DL.pdf</a>
 
-- <a href="https://www.academia.edu/129377388" target="_blank">https://www.academia.edu/129377388</a>
+- <a href="https://www.academia.edu/129377388" target="_blank">https://www.academia.edu/129377388</a> (in login mode in Academia)
 
 - <a href="https://www.researchgate.net/publication/379872216" target="_blank">https://www.researchgate.net/publication/379872216</a>
 
